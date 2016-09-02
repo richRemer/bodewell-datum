@@ -1,6 +1,6 @@
 {
   "name": "bodewell-datum",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "data point object model for bodewell system monitor",
   "main": "datum.js",
   "scripts": {
